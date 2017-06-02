@@ -12,7 +12,7 @@ When you want to take a trip but have no idea where to go, this Desicion Support
 Yet there is a prerequisite for this DSS: it is only applied to people who do not have very specific purpose or tendency on their travel destination.
 
 
-<Code Readme>
+## Code Readme
 
 I. Structure
   A. Raw consequence table - Final Consequence Table.xlsx
