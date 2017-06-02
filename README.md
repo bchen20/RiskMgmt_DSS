@@ -14,17 +14,20 @@ Yet there is a prerequisite for this DSS: it is only applied to people who do no
 
 ## Code Readme
 
-I. Structure
+#### I. Structure
+
   A. Raw consequence table - Final Consequence Table.xlsx
   B. Derived table - contb.csv
   C. Normalized table - contb_norm.csv
   D. User Interface R code - ui.R
   E. Model building R code - server.R
-II. What’s in ui.R
+#### II. What’s in ui.R
+
   A. Similar to Web design
     1. Input
     2. Output
-III. What’s in server.R
+#### III. What’s in server.R
+
   A. From line 1 to 380
     1. Define attributes’ variable
     2. Get the individual utility points based on user’s answer (two fixed and 3 derived)
